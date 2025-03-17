@@ -1,11 +1,10 @@
-# 正在施工中
 课程主页 https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
 
 ### 作业内容：
 
 A1 :学习 Pytorch 和 Google Colab 的使用。
 
-A2 :亲自搭建 Linear Classifier 以及一个两层的神经网络，最后接触 MNIST 数据集并在此基础上训练并评估你搭建起的神经网络。
+A2 :亲自搭建 Linear Classifier 以及一个两层的神经网络，最后接触 MNIST 数据集并在此基础上训练并评估搭建起的神经网络。
 
 A3 :搭建CNN模型。
 
