@@ -1,4 +1,4 @@
-课程主页: https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/ 
+课程主页: https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/\
 作业运行环境：Google Colab
 
 ### 作业内容：
